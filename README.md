@@ -2,9 +2,9 @@
 
 👀 I’m interested in Statistics and Control Theory
 
-🌲 I’m currently learning C/C++
+🌲 I’m currently learning Reinforcement Learning
 
-💪 I’m looking to collaborate on
+💪 I’m looking to collaborate on Golf ball monitoring apps
 
 
 
